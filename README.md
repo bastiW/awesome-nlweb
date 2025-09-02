@@ -27,6 +27,7 @@
 #### Python
 
 - [nlweb (Python)](https://github.com/nlweb-ai/nlweb) — Official Python implementation.
+- [nlweb Crawler (Python)](https://github.com/nlweb-ai/crawler)
 
 #### .NET
 
@@ -40,7 +41,7 @@
 
 #### Other Languages
 
-> Help us grow this section! Add Go, Rust, Java, or other community implementations here.
+> Help us grow this section! Add Go, Rust, Java, Elixir or other community implementations here.
 
 
 ## Tutorials
