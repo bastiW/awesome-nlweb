@@ -46,11 +46,9 @@
 
 ## Tutorials
 
-### Public Demos
-
 - [Hello World Tutorial](https://nlweb.buzz/getting-started#hello-world) — Quick start example from the official docs.
 
-### Use Cases
+## Use Cases
 
 - [TripAdvisor](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/nlweb-pioneer-qa-tripadvisor/4415289) — Travel discovery through natural language queries like "Where should I go this fall with kids?"
 
